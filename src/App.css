@@ -1,6 +1,22 @@
 .App {
   text-align: center;
 }
+.list {
+  padding-left: 20px;
+  text-align: left;
+  border-bottom: 1px solid grey;
+}
+.Fruit_Img {
+  height: 400px;
+  background-image: url(./Fruit.jpg);
+  background-size: cover;
+}
+
+.Container {
+  width: 70px;
+  height: 70px;
+  border: 3px solid black;
+}
 
 .App-logo {
   height: 40vmin;
